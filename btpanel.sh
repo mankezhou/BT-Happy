@@ -3,7 +3,7 @@ while [ "$go" != 'y' ] && [ "$go" != 'n' ]
 do
 clear
 read -p "
-宝塔专业版破解补丁 By:Huiaini
+宝塔专业版破解补丁 By:JoCry
 
 是否安装补丁？(y/n):" go;
 done
